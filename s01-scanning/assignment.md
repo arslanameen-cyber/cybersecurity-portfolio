@@ -467,14 +467,21 @@ The work was performed in a controlled VMware laboratory environment using the i
 The following screenshots are included as evidence for the practical work:
 
 1. Nmap initial service/version scan.
+   ![Nmap Service Scan](screenshots/nmap%20sv.jpeg)
 2. Nmap anonymous FTP enumeration.
+   ![Anonymous FTP](screenshots/nmap%20ftp%20script.jpeg)
 3. Nmap HTTP enumeration showing `/phpinfo.php`.
+   ![PHP Information Disclosure](screenshots/nmap%20http%20script.jpeg)
 4. Nmap vsftpd 2.3.4 service detection.
+   ![vsftpd 2.3.4](screenshots/vsftpd%202.3.4.jpeg)
 5. Nmap host discovery using `nmap -sn`.
+   ![Nmap Host Discovery](screenshots/nmap%20sn.jpeg)
 6. Netdiscover host discovery.
+   ![Netdiscover](screenshots/net%20discover.jpeg)
 7. IP Scanner host discovery.
+   ![IP Scanner](screenshots/ipscan.jpeg)
 8. Nmap Telnet service detection showing `23/tcp open telnet Linux telnetd`.
-
+![Telnet Service](screenshots/nmap%20telnet.jpeg)
 All commands were executed against the Metasploitable 2 laboratory target:
 
 ```text
