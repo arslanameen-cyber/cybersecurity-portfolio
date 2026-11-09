@@ -23,6 +23,8 @@ This folder contains my practical work for scanning and vulnerability assessment
 
 ## Assignment
 
+- [Assignment — Scanning & Vulnerability Assessment](assignment.md)
+
 This session documents the scanning and vulnerability assessment tasks completed as part of my cybersecurity training.
 
 All testing was performed in a controlled laboratory environment for educational purposes.
